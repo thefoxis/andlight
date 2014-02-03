@@ -10,7 +10,7 @@ For in-app usage with Stylus and *style* framework grab the source files and add
 
 Don't forget about general styling for the `code` element (if not using *style*):
 
-```
+```css
 code {
   font-family: Menlo, Monaco, Consolas, monospace;
   text-rendering: optimizeLegibility;
